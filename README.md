@@ -4,10 +4,6 @@ This is basically showing the process used to set up this environment, including
 This is meant to be a real world example of a typical company environment.
 <br/>
 <br/>
-<picture>
-    <img src="https://github.com/user-attachments/assets/d7324353-6ae0-46a0-9f61-127c47db1ced" 
-         width="500" height="375" alt="image" />
-</picture>
 
 ### 1. Created Server and Client Machines
 - Windows server 2022 with an internal and external network adapter.
@@ -27,9 +23,11 @@ This is meant to be a real world example of a typical company environment.
 ### 2. Configured Network Adapters
 - First adapter configured for NAT, renamed "Internet"
 - Second Adapter configured statically, IP: 172.16.0.1/24, DNS set to loopback address
+<br/>
 
 ### 3. Installed Active Directory DSR
 - Installed AD, Promoted server, created new forest ("kendalltapani.com")
+<br/>
 
 ### 4. Created OUs, and added Admins and Users.
 - Created New OU for Admins, Users, and Domain Controllers
@@ -42,4 +40,19 @@ This is meant to be a real world example of a typical company environment.
 <picture>
     <img src="https://github.com/user-attachments/assets/6583434b-850d-437b-b097-3ab45d4111dd" 
          width="425" height="450" alt="image" />
+</picture>
+
+
+
+
+
+
+
+
+
+
+
+<picture>
+    <img src="https://github.com/user-attachments/assets/d7324353-6ae0-46a0-9f61-127c47db1ced" 
+         width="500" height="375" alt="image" />
 </picture>
