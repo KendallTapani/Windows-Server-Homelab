@@ -26,7 +26,7 @@ This is meant to be a real world example of a typical company environment.
 <br/>
 
 ### 3. Installed Active Directory DSR
-- Installed AD, Promoted server, created new forest ("kendalltapani.com")
+- Installed AD, Promoted server to DC, created new forest ("kendalltapani.com")
 <br/>
 
 ### 4. Created OUs, and added Admins and Users.
@@ -42,7 +42,10 @@ This is meant to be a real world example of a typical company environment.
          width="425" height="450" alt="image" />
 </picture>
 
+### 5. Set up Routing and Remote access
+- Installed the remote access role, enabled routing and remote access, and configured NAT on the Internet Adapter, allowing internal clients to access the internet.
 
+![image](https://github.com/user-attachments/assets/29720f4a-dbe3-4a8e-b9ac-6b98ecde3d5d)
 
 
 
