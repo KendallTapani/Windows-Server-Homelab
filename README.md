@@ -2,5 +2,5 @@
 This is documentation of a fully setup test environment, with Windows Server 2022, 5+ machines, and 1000+ users in Active directory.
 
 
-I'm basically putting the server setup process, the network setup and configuration I did, both on the server and user end, as well as extensive scripting practices I regularly implement in the workplace.
-This is meant to be a real world example of how Windows Server 2022 works, how to set up and manage an environment, and how to implement scripting to streamline management.
+I'm basically showing the process used to set up this environment, including the network setup and configuration I did, as well as the scripting practices I regularly implement in the workplace.
+This is meant to be a real world example of the environment I am usually managing.
