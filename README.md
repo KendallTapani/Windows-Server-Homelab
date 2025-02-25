@@ -26,3 +26,10 @@ This is meant to be a real world example of a typical company environment.
          width="250" height="400" alt="image" />
 </picture>
 <div/>
+
+### 2. Configured Network Adapters
+- First adapter configured for NAT, renamed "Internet"
+- Second Adapter configured statically, IP: 172.16.0.1/24, DNS set to loopback address
+
+![image](https://github.com/user-attachments/assets/d93a3407-2937-4d60-8579-7a269c4061f1)
+
