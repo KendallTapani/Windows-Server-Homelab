@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7f8f2bc0-3064-4a4d-9047-6407a6cff754)# Windows-Server-Homelab
+# Windows-Server-Homelab
 This is documentation of a fully setup test environment, with Windows Server 2022, 5+ machines, and 1000+ users in Active directory.
 
 
