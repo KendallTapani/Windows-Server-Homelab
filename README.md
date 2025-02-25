@@ -17,7 +17,7 @@ This is meant to be a real world example of a typical company environment.
 
 <picture>
     <img src="https://github.com/user-attachments/assets/830a0b0d-c786-4a66-b84d-0b3114c89728" 
-         width="400" height="600" alt="image" />
+         width="150" height="400" alt="image" />
 </picture>
 
 
@@ -25,5 +25,5 @@ This is meant to be a real world example of a typical company environment.
 
 <picture>
     <img src="https://github.com/user-attachments/assets/52f8da6e-5163-40f3-9016-2f04f8f136d6" 
-         width="400" height="600" alt="image" />
+         width="150" height="400" alt="image" />
 </picture>
