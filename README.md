@@ -47,7 +47,7 @@ This is meant to be a real world example of a typical company environment.
 
 <picture>
     <img src="https://github.com/user-attachments/assets/29720f4a-dbe3-4a8e-b9ac-6b98ecde3d5d"
-        width="300" height="400" alt="image" />
+        width="300" height="300" alt="image" />
 </picture>
 
 
