@@ -35,9 +35,10 @@ This is meant to be a real world example of a typical company environment.
 - Created New OU for Admins, Users, and Domain Controllers
 - Added My personal admin account, and ran a Powershell script to add 1000+ users into Users account
 <picture>
-    <img src="https://github.com/user-attachments/assets/250c7378-3d43-42e0-a8bb-15c99053ca54" 
+    <img src="https://github.com/user-attachments/assets/11b4e4c0-2ec7-4a32-be0b-c3ad710ae6af" 
          width="400" height="450" alt="image" />
 </picture>
+
 <picture>
     <img src="https://github.com/user-attachments/assets/6583434b-850d-437b-b097-3ab45d4111dd" 
          width="400" height="450" alt="image" />
