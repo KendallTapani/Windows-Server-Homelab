@@ -25,8 +25,9 @@ This is meant to be a real world example of a typical company environment.
     <img src="https://github.com/user-attachments/assets/52f8da6e-5163-40f3-9016-2f04f8f136d6" 
          width="250" height="400" alt="image" />
 </picture>
-<div/>
-<br/>
+</div>
+
+
 ### 2. Configured Network Adapters
 - First adapter configured for NAT, renamed "Internet"
 - Second Adapter configured statically, IP: 172.16.0.1/24, DNS set to loopback address
@@ -40,7 +41,6 @@ This is meant to be a real world example of a typical company environment.
 ### 4. Created OUs, and added Admins and Users.
 - Created New OU for Admins, Users, and Domain Controllers
 - Added My personal admin account, and ran a Powershell script to add 1000+ users into Users account
-- 
 <picture>
     <img src="https://github.com/user-attachments/assets/250c7378-3d43-42e0-a8bb-15c99053ca54" 
          width="400" height="450" alt="image" />
