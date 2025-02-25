@@ -34,18 +34,21 @@ This is meant to be a real world example of a typical company environment.
 - Added My personal admin account, and ran a Powershell script to add 1000+ users into Users account
 <picture>
     <img src="https://github.com/user-attachments/assets/11b4e4c0-2ec7-4a32-be0b-c3ad710ae6af" 
-         width="425" height="450" alt="image" />
+         width="450" height="450" alt="image" />
 </picture>
 
 <picture>
     <img src="https://github.com/user-attachments/assets/6583434b-850d-437b-b097-3ab45d4111dd" 
-         width="425" height="450" alt="image" />
+         width="450" height="450" alt="image" />
 </picture>
 
 ### 5. Set up Routing and Remote access
 - Installed the remote access role, enabled routing and remote access, and configured NAT on the Internet Adapter, allowing internal clients to access the internet.
 
-![image](https://github.com/user-attachments/assets/29720f4a-dbe3-4a8e-b9ac-6b98ecde3d5d)
+<picture>
+    <img src="https://github.com/user-attachments/assets/29720f4a-dbe3-4a8e-b9ac-6b98ecde3d5d"
+        width="300" height="400" alt="image" />
+</picture>
 
 
 
@@ -54,7 +57,9 @@ This is meant to be a real world example of a typical company environment.
 
 
 
-
+<br/>
+<br/>
+<br/>
 <picture>
     <img src="https://github.com/user-attachments/assets/d7324353-6ae0-46a0-9f61-127c47db1ced" 
          width="500" height="375" alt="image" />
