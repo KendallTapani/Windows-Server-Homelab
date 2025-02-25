@@ -36,9 +36,11 @@ This is meant to be a real world example of a typical company environment.
 ### 3. Installed Active Directory DSR
 - Installed AD, Promoted server, created new forest ("kendalltapani.com")
 
+
 ### 4. Created OUs, and added Admins and Users.
 - Created New OU for Admins, Users, and Domain Controllers
 - Added My personal admin account, and ran a Powershell script to add 1000+ users into Users account
+- 
 <picture>
     <img src="https://github.com/user-attachments/assets/250c7378-3d43-42e0-a8bb-15c99053ca54" 
          width="400" height="450" alt="image" />
