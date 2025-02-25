@@ -47,15 +47,3 @@ This is meant to be a real world example of a typical company environment.
     <img src="https://github.com/user-attachments/assets/4def093e-ead0-49db-a2e4-2fe7a074a1f9" 
          width="400" height="450" alt="image" />
 </picture>
-
-
-
-
-
-
-
-
-
-    <img src="https://github.com/user-attachments/assets/d93a3407-2937-4d60-8579-7a269c4061f1" 
-         width="700" height="150" alt="image" />
-</picture>
