@@ -26,7 +26,6 @@ This is meant to be a real world example of a typical company environment.
 ### 2. Configured Network Adapters
 - First adapter configured for NAT, renamed "Internet"
 - Second Adapter configured statically, IP: 172.16.0.1/24, DNS set to loopback address
-<picture>
 <br/>
 
 ### 3. Installed Active Directory DSR
