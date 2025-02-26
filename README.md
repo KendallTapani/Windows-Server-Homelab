@@ -82,11 +82,11 @@ DNS server: 172.16.0.1
 
 <picture>
     <img src="https://github.com/user-attachments/assets/f64a84fe-802a-43ec-9069-e09351eb4052"
-        width="450" height="300" alt="img" />
+        width="350" height="200" alt="img" />
 </picture>
 <picture>
     <img src="https://github.com/user-attachments/assets/921a41cd-bd3c-4e78-a06c-727468059eda"
-        width="450" height="250" alt="img" />
+        width="350" height="200" alt="img" />
 </picture>
 <br/>
 <br/>
