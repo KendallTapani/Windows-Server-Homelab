@@ -35,7 +35,7 @@ This is meant to be a real world example of a typical company environment.
 
 ### 4. Created OUs, and added Admins and Users.
 - Created New OU for Admins, Users, and Domain Controllers
-- Added My personal admin account, and ran a Powershell script to add 1000+ users into Users account
+- Added My personal admin account, and ran a Powershell script to add 1000+ users into _Users
 <picture>
     <img src="https://github.com/user-attachments/assets/11b4e4c0-2ec7-4a32-be0b-c3ad710ae6af" 
          width="450" height="400" alt="image" />
