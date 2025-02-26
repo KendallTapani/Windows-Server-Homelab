@@ -34,12 +34,12 @@ This is meant to be a real world example of a typical company environment.
 - Added My personal admin account, and ran a Powershell script to add 1000+ users into Users account
 <picture>
     <img src="https://github.com/user-attachments/assets/11b4e4c0-2ec7-4a32-be0b-c3ad710ae6af" 
-         width="450" height="425" alt="image" />
+         width="450" height="410" alt="image" />
 </picture>
 
 <picture>
     <img src="https://github.com/user-attachments/assets/6583434b-850d-437b-b097-3ab45d4111dd" 
-         width="450" height="425" alt="image" />
+         width="450" height="410" alt="image" />
 </picture>
 
 ### 5. Set up Routing and Remote access
@@ -48,7 +48,7 @@ This is meant to be a real world example of a typical company environment.
 
 <picture>
     <img src="https://github.com/user-attachments/assets/29720f4a-dbe3-4a8e-b9ac-6b98ecde3d5d"
-        width="300" height="225" alt="image" />
+        width="450" height="325" alt="image" />
 </picture>
 
 ### 6. Installed and configured DHCP
@@ -60,7 +60,7 @@ Router/Gateway: 172.16.0.1
 DNS server: 172.16.0.1
 <picture>
     <img src="https://github.com/user-attachments/assets/80f78af9-45ad-4d1d-833e-05d1437e58b3"
-      width="300" height="275" alt="img" />
+      width="450" height="325" alt="img" />
 </picture>
 
 
