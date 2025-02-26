@@ -43,16 +43,27 @@ This is meant to be a real world example of a typical company environment.
 </picture>
 
 ### 5. Set up Routing and Remote access
-- Installed the remote access role, enabled routing and remote access, and configured NAT on the Internet Adapter, allowing internal clients to access the internet.
+- Installed the remote access role, enabled routing and remote access.
+- Configured NAT on the Internet Adapter, allowing internal clients to access the internet.
 
 <picture>
     <img src="https://github.com/user-attachments/assets/29720f4a-dbe3-4a8e-b9ac-6b98ecde3d5d"
         width="300" height="250" alt="image" />
 </picture>
 
-
-
-
+### 6. Installed and configured DHCP
+- Installed DHCP role on server
+- Created 3 new scopes for the internal network
+Ranges: 172.16.0.100-200 : 200-300 : 300-400
+Subnet Mask: 255.255.255.0
+Lease Duration: 8 days
+Router/Gateway: 172.16.0.1
+DNS server: 172.16.0.1
+- Authorized and activated DHCP
+<picture>
+    <img src="https://github.com/user-attachments/assets/80f78af9-45ad-4d1d-833e-05d1437e58b3"
+      width="300" height="300" alt="img" />
+</picture>
 
 
 
