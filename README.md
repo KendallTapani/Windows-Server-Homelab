@@ -34,7 +34,7 @@ This is meant to be a real world example of a typical company environment.
 - Added My personal admin account, and ran a Powershell script to add 1000+ users into Users account
 <picture>
     <img src="https://github.com/user-attachments/assets/11b4e4c0-2ec7-4a32-be0b-c3ad710ae6af" 
-         width="450" height="450" alt="image" />
+         width="450" height="425" alt="image" />
 </picture>
 
 <picture>
@@ -60,7 +60,7 @@ Router/Gateway: 172.16.0.1
 DNS server: 172.16.0.1
 <picture>
     <img src="https://github.com/user-attachments/assets/80f78af9-45ad-4d1d-833e-05d1437e58b3"
-      width="300" height="300" alt="img" />
+      width="300" height="275" alt="img" />
 </picture>
 
 
