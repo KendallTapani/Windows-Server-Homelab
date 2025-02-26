@@ -54,12 +54,10 @@ This is meant to be a real world example of a typical company environment.
 ### 6. Installed and configured DHCP
 - Installed DHCP role on server
 - Created 3 new scopes for the internal network
-Ranges: 172.16.0.100-200 : 200-300 : 300-400
+Ranges: 172.16.0.100-200 : .1.100-200 : .2.100-200
 Subnet Mask: 255.255.255.0
-Lease Duration: 8 days
 Router/Gateway: 172.16.0.1
 DNS server: 172.16.0.1
-- Authorized and activated DHCP
 <picture>
     <img src="https://github.com/user-attachments/assets/80f78af9-45ad-4d1d-833e-05d1437e58b3"
       width="300" height="300" alt="img" />
