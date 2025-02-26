@@ -1,8 +1,6 @@
 # Windows-Server-Homelab
 This is documentation of a fully setup test environment, with Windows Server 2022, 5+ machines, and 1000+ users in Active directory.       
 This setup is what I use to test advanced scripting in the windows environment
-
-<br/>
 <br/>
 
 ### 1. Created Server and Client Machines
