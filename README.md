@@ -1,7 +1,8 @@
 # Windows-Server-Homelab
 This is documentation of a fully setup test environment, with Windows Server 2022, 5+ machines, and 1000+ users in Active directory.
-This is basically showing the process used to set up this environment, including the network setup and configuration, as well as the scripting practices I regularly implement in the workplace.
-This is meant to be a real world example of a typical company environment.
+The documentation shows the process used to set up this environment.
+This setup is what I use to test advanced scripting in the windows environment
+
 <br/>
 <br/>
 
