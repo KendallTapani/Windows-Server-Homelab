@@ -39,7 +39,7 @@ This is meant to be a real world example of a typical company environment.
 
 <picture>
     <img src="https://github.com/user-attachments/assets/6583434b-850d-437b-b097-3ab45d4111dd" 
-         width="450" height="450" alt="image" />
+         width="450" height="425" alt="image" />
 </picture>
 
 ### 5. Set up Routing and Remote access
@@ -48,7 +48,7 @@ This is meant to be a real world example of a typical company environment.
 
 <picture>
     <img src="https://github.com/user-attachments/assets/29720f4a-dbe3-4a8e-b9ac-6b98ecde3d5d"
-        width="300" height="250" alt="image" />
+        width="300" height="225" alt="image" />
 </picture>
 
 ### 6. Installed and configured DHCP
