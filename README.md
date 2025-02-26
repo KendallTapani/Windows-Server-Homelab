@@ -96,7 +96,7 @@ DNS server: 172.16.0.1
 <br/>
 <br/>
 
-## Check out Scripting and automation repo for AD scripts
+## Check out Scripting and automation repo for AD scripts in powershell
 <div style="background-color: #f6f8fa; padding: 20px; border-radius: 6px; margin: 20px 0;">
     <h4 style="margin-top: 0;">
         <a href="https://github.com/KendallTapani/Scripting-and-Automation/tree/main" style="text-decoration: none; color: #0366d6;">
