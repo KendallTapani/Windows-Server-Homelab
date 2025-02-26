@@ -73,7 +73,7 @@ DNS server: 172.16.0.1
 
 <picture>
     <img src="https://github.com/user-attachments/assets/3e336a6c-1a17-4f74-9033-d6255a351f67"
-        width="500" height="200" alt="img" />
+        width="500" height="225" alt="img" />
 </picture>
 
 
@@ -88,7 +88,7 @@ DNS server: 172.16.0.1
 </picture>
 <picture>
     <img src="https://github.com/user-attachments/assets/921a41cd-bd3c-4e78-a06c-727468059eda"
-        width="500" height="325" alt="img" />
+        width="525" height="325" alt="img" />
 </picture>
 
 <br/>
