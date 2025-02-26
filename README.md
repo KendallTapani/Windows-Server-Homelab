@@ -28,10 +28,10 @@ This is meant to be a real world example of a typical company environment.
     width="700" height="200" alt="image" />
 </picture>
 <br/>
+<br/>
 
 ### 3. Installed Active Directory DSR
 - Installed AD, Promoted server to DC, created new forest ("kendalltapani.com")
-<br/>
 
 ### 4. Created OUs, and added Admins and Users.
 - Created New OU for Admins, Users, and Domain Controllers
