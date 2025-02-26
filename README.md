@@ -90,10 +90,10 @@ DNS server: 172.16.0.1
     <img src="https://github.com/user-attachments/assets/921a41cd-bd3c-4e78-a06c-727468059eda"
         width="525" height="325" alt="img" />
 </picture>
-</br>
-</br>
-
-Check out Scripting and automation repo for AD scripts
+<br/>
+<br/>
+<br/>
+## Check out Scripting and automation repo for AD scripts
 <div style="background-color: #f6f8fa; padding: 20px; border-radius: 6px; margin: 20px 0;">
     <h4 style="margin-top: 0;">
         <a href="https://github.com/KendallTapani/Scripting-and-Automation/tree/main" style="text-decoration: none; color: #0366d6;">
