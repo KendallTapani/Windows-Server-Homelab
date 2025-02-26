@@ -1,6 +1,6 @@
 # Windows-Server-Homelab
 This is documentation of a fully setup test environment, with Windows Server 2022, 5+ machines, and 1000+ users in Active directory.       
-This setup is what I use to test advanced scripting in the windows environment
+This setup is what I use to test advanced scripting in the windows environment.
 <br/>
 
 ### 1. Created Server and Client Machines
@@ -19,8 +19,8 @@ This setup is what I use to test advanced scripting in the windows environment
 <br/>
 
 ### 2. Configured Network Adapters
-- First adapter configured for NAT, renamed "Internet"
-- Second Adapter configured statically, IP: 172.16.0.1/24, DNS set to loopback address
+- First adapter configured for NAT, renamed "Internet".
+- Second Adapter configured statically, IP: 172.16.0.1/24, DNS set to loopback address.
 <picture>
 <img src="https://github.com/user-attachments/assets/34e7f238-1feb-4c83-9ae2-fd469dabac4d"
     width="700" height="200" alt="image" />
@@ -29,11 +29,11 @@ This setup is what I use to test advanced scripting in the windows environment
 <br/>
 
 ### 3. Installed Active Directory DSR
-- Installed AD, Promoted server to DC, created new forest ("kendalltapani.com")
+- Installed AD, Promoted server to DC, created new forest ("kendalltapani.com").
 
 ### 4. Created OUs, and added Admins and Users.
-- Created New OU for Admins, Users, and Domain Controllers
-- Added My personal admin account, and ran a Powershell script to add 1000+ users into _Users
+- Created New OU for Admins, Users, and Domain Controllers.
+- Added My personal admin account, and ran a Powershell script to add 1000+ users into _Users.
 <picture>
     <img src="https://github.com/user-attachments/assets/11b4e4c0-2ec7-4a32-be0b-c3ad710ae6af" 
          width="450" height="400" alt="image" />
@@ -54,8 +54,8 @@ This setup is what I use to test advanced scripting in the windows environment
 </picture>
 
 ### 6. Installed and configured DHCP
-- Installed DHCP role on server
-- Created 3 new scopes for the internal network
+- Installed DHCP role on server.
+- Created 3 new scopes for the internal network.
 Ranges: 172.16.0.100-200 : .1.100-200 : .2.100-200
 Subnet Mask: 255.255.255.0
 Router/Gateway: 172.16.0.1
@@ -77,7 +77,7 @@ DNS server: 172.16.0.1
 
 ### 8. Confirmed Client computers were fully setup
 - Made sure DHCP assigned IP addresses properly.
-- Checked AD to confirm client joined the domain
+- Checked AD to confirm client joined the domain.
 - Logged into client using domain credentials.
 
 <picture>
