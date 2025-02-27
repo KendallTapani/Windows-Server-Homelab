@@ -57,7 +57,9 @@ This setup is what I use to test advanced scripting in the windows environment.
 - Installed DHCP role on server.
 - Created 3 new scopes for the internal network.
 Ranges: 172.16.0.100-200 : .1.100-200 : .2.100-200
+
 Subnet Mask: 255.255.255.0
+
 Router/Gateway: 172.16.0.1
 DNS server: 172.16.0.1
 <picture>
