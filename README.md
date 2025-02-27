@@ -62,6 +62,7 @@ Subnet Mask: 255.255.255.0
 
 Router/Gateway: 172.16.0.1
 DNS server: 172.16.0.1
+<br/>
 <picture>
     <img src="https://github.com/user-attachments/assets/80f78af9-45ad-4d1d-833e-05d1437e58b3"
       width="450" height="325" alt="img" />
