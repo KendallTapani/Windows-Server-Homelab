@@ -4,8 +4,8 @@ This setup is what I use to test advanced scripting in the windows environment.
 <br/>
 
 ### 1. Created Server and Client Machines
-- Windows server 2022 with an internal and external network adapter.
-- Windows 10 pro client machines, with only an internal network adapter.
+- 1 Windows server 2022 with an internal and external network adapter.
+- 6 Windows 10 pro client machines, with an internal network adapter.
 <div>
 <picture>
     <img src="https://github.com/user-attachments/assets/830a0b0d-c786-4a66-b84d-0b3114c89728" 
