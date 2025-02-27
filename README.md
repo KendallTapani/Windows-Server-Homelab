@@ -18,7 +18,7 @@ This setup is what I use to test advanced scripting in the windows environment.
 </div>
 <br/>
 
-### 2. Configured Network Adapters
+### 2. Configured Network Adapters on Domain Controller
 - First adapter configured for NAT, renamed "Internet".
 - Second Adapter configured statically, IP: 172.16.0.1/24, DNS set to loopback address.
 <picture>
