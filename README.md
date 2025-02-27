@@ -29,7 +29,7 @@ This setup is what I use to test advanced scripting in the windows environment.
 <br/>
 
 ### 3. Installed Active Directory DSR
-- Installed AD, Promoted server to DC, created new forest ("kendalltapani.com").
+- Installed AD, Promoted server to Domain Controller, created new forest ("kendalltapani.com").
 
 ### 4. Created OUs, and added Admins and Users.
 - Created New OU for Admins, Users, and Domain Controllers.
